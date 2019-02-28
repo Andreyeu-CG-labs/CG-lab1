@@ -1,0 +1,1 @@
+pyuic5 designer/lab1.ui -o ui/lab1_ui.py
